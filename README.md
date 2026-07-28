@@ -1,6 +1,6 @@
 # ME 231 — Burnout modeling
 
-**Website:** [https://killianberkeley.github.io/me231-final/](https://killianberkeley.github.io/me231-final/)
+**Website:** [https://killianberkeley.github.io/ME276DS-Final/]((https://killianberkeley.github.io/ME276DS-Final/))
 
 Multiple models on an employee burnout dataset from Kaggle (`tech_mental_health_burnout.csv`).
 
